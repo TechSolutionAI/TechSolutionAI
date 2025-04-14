@@ -14,3 +14,8 @@
 ![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,angular,vue,svelte,tailwind,sass,bootstrap,redux,webpack,vite,babel)
 ## Back-End Development ##
 ![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,java,cs,go,graphql,mysql,sqlite,postgres,mongodb,redis,firebase)
+## DevOps & Infrastructure ##
+![My Skills](https://skillicons.dev/icons?i=github,githubaction,gitlab,aws,gcp,azure,docker,kubernetes,terraform)
+## Cross-Platform & Full Stack Tools ##
+![My Skills](https://skillicons.dev/icons?i=nextjs,nuxtjs,remix)
+
