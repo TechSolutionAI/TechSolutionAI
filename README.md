@@ -10,5 +10,5 @@
 </div>
 
 # Main Skills #
-## Web Development ##
-![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)
+## Front-End Development ##
+![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,angular,vue,svelte,tailwind,sass,bootstrap,redux,webpack,vite,babel)
