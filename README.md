@@ -13,4 +13,4 @@
 ## Front-End Development ##
 ![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,angular,vue,svelte,tailwind,sass,bootstrap,redux,webpack,vite,babel)
 ## Back-End Development ##
-![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,java,cs,go,graphql,mysql,sqlite,postres,mongodb,redis,firebase)
+![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,java,cs,go,graphql,mysql,sqlite,postgres,mongodb,redis,firebase)
